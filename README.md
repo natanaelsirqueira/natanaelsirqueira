@@ -1,8 +1,8 @@
 ## Natanael Sirqueira
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanaelsirqueira/)](https://www.linkedin.com/in/natanaelsirqueira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanaelsirqueira@gmail.com)](mailto:natanaelsirqueira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanaelsirqueira/)](https://www.linkedin.com/in/natanaelsirqueira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/NatanaelS097)](https://twitter.com/NatanaelS097)
 
 :man_technologist: I work most of the time with Elixir :purple_heart:. I try contributing to open-source whenever I can.
