@@ -1,4 +1,16 @@
-### Hi there 👋
+## Natanael Sirqueira
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanaelsirqueira/)](https://www.linkedin.com/in/natanaelsirqueira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanaelsirqueira@gmail.com)](mailto:natanaelsirqueira@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/NatanaelS097)](https://twitter.com/NatanaelS097)
+
+:man_technologist: I work most of the time with Elixir :purple_heart:. I try contributing to open-source whenever I can.
+
+:computer: I like to keep up to date with web development and infrastructure technologies, so I'm always looking forward to attending events, watching talks and taking courses.
+
+:video_game: I'm a game development enthusiast with Unreal Engine 4. I am part of a study group focused on applied games, running simulation projects that goes from nursing to robotics for space exploration.
+
 
 <!--
 **natanaelsirqueira/natanaelsirqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
