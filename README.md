@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/natanaelsirqueira/natanaelsirqueira">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=natanaelsirqueira&hide=stars&count_private=true&show_icons=true&theme=nord" />
+</a>
+<a href="https://github.com/natanaelsirqueira/natanaelsirqueira">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelsirqueira&layout=compact&hide=javascript,html" />
+</a>
