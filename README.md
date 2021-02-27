@@ -9,7 +9,7 @@
 
 :computer: I like to keep up to date with web development and infrastructure technologies, so I'm always looking forward to attending events, watching talks and taking courses.
 
-:video_game: I'm a game development enthusiast with Unreal Engine 4. I am part of a study group focused on applied games, running simulation projects ranging from nursing to robotics for space exploration.
+:video_game: I'm a game development enthusiast with Unreal Engine 4. I am part of a study group focused on applied games, running simulation projects ranging from nursing to robotics for space exploration. :rocket:
 
 
 <!--
